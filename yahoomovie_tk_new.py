@@ -2,7 +2,6 @@
 """
 Created on Fri Feb 11 15:17:23 2022
 
-@author: nonnon519
 """
 
 from mypackage import myfuntion as my
